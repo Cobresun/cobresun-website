@@ -35,12 +35,14 @@ function App() {
         </ul>
       </div>
       
-
       <div id="projects">
         <h1>Projects</h1>
-        <a href="/fadeaway-mac.zip" download>Fadeaway Mac Download</a>
-        <br></br>
-        <a href="/fadeaway-win.zip" download>Fadeaway Windows Download</a>
+        <p>Our projects on <a rel="noopener noreferrer" target="_blank" href="https://github.com/Cobresun">GitHub</a> and our apps on the <a rel="noopener noreferrer" target="_blank" href="https://play.google.com/store/apps/developer?id=Cobresun">Google Play Store</a>!</p>
+        <p>Download the pre-alpha of our new game <b>Fadeaway</b> here:</p>
+        <ul>
+          <li><a href="/fadeaway-mac.zip" download>Fadeaway Mac Download</a></li>
+          <li><a href="/fadeaway-win.zip" download>Fadeaway Windows Download</a></li>
+        </ul>        
       </div>
       
     </div>
