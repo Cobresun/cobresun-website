@@ -3,7 +3,10 @@ import './App.css'
 
 function App() {
   return (
-    <h1>Cobresun</h1>
+    <div>
+      <h1>Cobresun</h1>
+      <a href="/fadeaway-mac.zip" download>Fadeaway Mac Download</a>
+    </div>
   )
 }
 
