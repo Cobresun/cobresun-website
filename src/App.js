@@ -22,8 +22,19 @@ function App() {
         </Navbar.Collapse>
       </Navbar>
 
-      <h1>About Us</h1>
-      <p>We might actually be the coolest devs...</p>
+      <div id="about">
+        <h1>About Us</h1>
+        <p><b>🎂 Birthday: </b>June 24, 2014</p>
+        <p><b>🎯 Mission: </b>Make a video game 🎮</p>
+        <b>👨‍👨‍👦‍👦 Members:</b>
+        <ul>
+          <li><a rel="noopener noreferrer" target="_blank" href="https://github.com/cole-adams">Cole Adams</a></li>
+          <li><a rel="noopener noreferrer" target="_blank" href="https://bnor.me">Brian Norman</a></li>
+          <li><a rel="noopener noreferrer" target="_blank" href="https://wesley-tang.github.io">Wesley Tang</a></li>
+          <li><a rel="noopener noreferrer" target="_blank" href="https://sunnynagam.github.io">Sunny Nagam</a></li>
+        </ul>
+      </div>
+      
 
       <div id="projects">
         <h1>Projects</h1>
