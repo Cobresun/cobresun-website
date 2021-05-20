@@ -38,17 +38,6 @@ function App() {
       <div id="projects">
         <h1>Projects</h1>
         <p>Our projects on <a rel="noopener noreferrer" target="_blank" href="https://github.com/Cobresun">GitHub</a> and our apps on the <a rel="noopener noreferrer" target="_blank" href="https://play.google.com/store/apps/developer?id=Cobresun">Google Play Store</a>!</p>
-        <h3>Fadeaway</h3>
-        <p>Download the pre-alpha of our new game <b>Fadeaway</b> here:</p>
-        <ul>
-          <li><a href="/fadeaway-mac.zip" download>Fadeaway Mac Download</a></li>
-          <li><a href="/fadeaway-win.zip" download>Fadeaway Windows Download</a></li>
-        </ul>
-        <p>Changelog:</p>
-        <ul>
-          <li><b>June 28, 2020:</b> Added muzzle flash, speed bost powerup, updated lighting (still testing), and enemy fade.</li>
-          <li><b>June 21, 2020:</b> Uploaded game with waves, zombies, lightning, shootng, barriers, etc!</li>
-        </ul>
       </div>
       
     </div>
