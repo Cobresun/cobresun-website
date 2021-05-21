@@ -24,7 +24,7 @@ function App() {
 
       <div id="about">
         <h1>About Us</h1>
-        <p><b>🎂 Birthday: </b>June 24, 2014</p>
+        <p><b>🎂 Birthday: </b>June 24, 2014 (when the name first came into existence)</p>
         <p><b>🎯 Mission: </b>Make a video game 🎮</p>
         <b>👨‍👨‍👦‍👦 Members:</b>
         <ul>
